@@ -1,4 +1,5 @@
-## Hi there, I'm Ajay and I code :)
+## I code
+
 
 <!--
 **Aj4y7/Aj4y7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
