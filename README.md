@@ -8,7 +8,7 @@
 
 <h2>About Me</h2>
 
-hi, i am Ajay
+hi, i am Ajay <br> 
 a backend developer focused on go, apis, and distributed systems.
 currently building scalable services and experimenting with new tech. i like clean code, simple solutions, and systems that don’t fall apart at 3am.
 Can we get to 1 million views of this page???
