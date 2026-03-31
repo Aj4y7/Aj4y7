@@ -10,7 +10,6 @@
 
 Heya, I am Ajay <br> 
 Exploring computational theory, discrete mathematics, and building things in Go, TS and C++. <br>
-Can we get to 1 million views of this page???
 
 
 [Codeforces](https://codeforces.com/profile/Aj4y)
