@@ -12,7 +12,7 @@ Heya, I am Ajay <br>
 Exploring computational theory, discrete mathematics, and building things in Go, TS and C++. <br>
 
 
-[Codeforces](https://codeforces.com/profile/Aj4y)
+[Codeforces](https://codeforces.com/profile/dissect)
 
 ---
 
