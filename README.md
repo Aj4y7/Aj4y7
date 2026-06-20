@@ -9,7 +9,7 @@
 <h2>About Me</h2>
 
 Heya, I am Ajay <br> 
-Exploring computational theory, discrete mathematics, and building things in Go, TS and C++. <br>
+Exploring computational theory, discrete mathematics, and building things in Go, C++ and TS/JS. <br>
 
 
 [Codeforces](https://codeforces.com/profile/dissect)
